@@ -1,0 +1,283 @@
+.immersive {
+  /* Immersive */
+
+  height: 719px;
+
+  background: #302c8c;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 2;
+  align-self: stretch;
+  flex-grow: 0;
+  z-index: 2;
+}
+
+.tulfa-ar-text {
+  /* Get to know us */
+
+  width: 678px;
+  height: 90px;
+  left: 382px;
+  top: 108px;
+  margin-bottom: -80px;
+  position: relative;
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 45px;
+  /* or 112% */
+  text-align: center;
+  letter-spacing: 0.03em;
+
+  background: linear-gradient(271.02deg, #a29aff 7.47%, #ffc6bd 94.75%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
+
+.ar-images img {
+  width: 256.63px;
+  height: 286px;
+}
+
+.img-frame {
+  /* Frame 181375 */
+
+  position: relative;
+  width: 1321.01px;
+  height: 286px;
+  left: 60.99px;
+  top: 269px;
+}
+
+.solutions-text {
+  /* Get to know us */
+
+  position: relative;
+  width: 420px;
+  height: 50px;
+  left: 131px;
+  top: 0px;
+
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 50px;
+  /* identical to box height, or 125% */
+  text-align: center;
+  letter-spacing: 0.03em;
+
+  background: linear-gradient(271.02deg, #5345ff 7.47%, #ff3b1b 94.75%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
+
+.scale-text {
+  /* Scale your product content with the optimal solutions for e-commerce */
+
+  position: relative;
+  width: 674px;
+  height: 34px;
+  left: 0px;
+  top: -30px;
+
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 163%;
+  /* or 29px */
+  text-align: center;
+  letter-spacing: 0.035em;
+
+  color: #312c8d;
+}
+
+.discover-solutions {
+  /* Title */
+
+  position: relative;
+  width: 674px;
+  height: 84px;
+  left: 382px;
+  top: 101px;
+  gap: 10px;
+}
+
+.group-img {
+  /* Group 7 */
+
+  /* Rectangle 52 */
+
+  position: relative;
+  width: 353px;
+  height: 211px;
+  left: 100px;
+  top: 0px;
+
+  border-radius: 44px;
+}
+
+.group-7 {
+  /* 1 */
+
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 1239px;
+  height: 362px;
+  left: 0px;
+  top: 153px;
+  justify-content: space-evenly;
+}
+
+.group-9 {
+  /* Group 9 */
+
+  position: relative;
+  width: 1234px;
+  height: 211px;
+  left: 100px;
+  top: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.groupimg {
+  /* Group 3 */
+
+  position: relative;
+  width: 1223px;
+  height: 118px;
+  left: -10px;
+  top: 24px;
+}
+
+.group8-img {
+  /* Group 8 */
+
+  position: relative;
+  width: 1223px;
+  height: 118px;
+  left: -10px;
+  top: 44px;
+  margin-bottom: 50px;
+}
+
+.innovation-content {
+  /* Metaverse Content Production */
+
+  width: 195px;
+  height: 15px;
+
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 124.5%;
+  /* identical to box height, or 15px */
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.05em;
+  font-variant: small-caps;
+
+  color: #736dfa;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.innstore {
+  /* InStore Immersive Activation */
+
+  width: 326px;
+  height: 32px;
+
+  /* Heading/Desktop and Tablet/H4 */
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 32px;
+  /* identical to box height, or 133% */
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.035em;
+
+  color: #ffffff;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.btn-learnmore {
+  /* Btn */
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 20px;
+  gap: 10px;
+
+  width: 200px;
+  height: 34px;
+
+  background: #ff4729;
+  border-radius: 5px;
+  border: none;
+  color: white;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 3;
+  flex-grow: 0;
+}
+
+.video {
+  width: 500px;
+  height: 280px;
+}
+
+.polygon {
+  width: 50px;
+  height: 50px;
+}
+
+.innovations {
+  /* Section  */
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 50px 0px;
+  gap: 50px;
+  margin-top: 50px;
+  width: stretch;
+  height: 400px;
+
+  background: #151568;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.innovations-text {
+  color: white;
+}
