@@ -1,0 +1,1402 @@
+.immersive {
+  /* Immersive */
+
+  height: 719px;
+
+  background: #302c8c;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 2;
+  align-self: stretch;
+  flex-grow: 0;
+  z-index: 2;
+}
+
+.tulfa-ar-text {
+  /* Get to know us */
+
+  width: 678px;
+  height: 90px;
+  left: 382px;
+  top: 108px;
+  margin-bottom: -80px;
+  position: relative;
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 45px;
+  /* or 112% */
+  text-align: center;
+  letter-spacing: 0.03em;
+
+  background: linear-gradient(271.02deg, #a29aff 7.47%, #ffc6bd 94.75%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.ar-images img {
+  width: 250.63px;
+  height: 286px;
+}
+
+.img-frame {
+  /* Frame 181375 */
+
+  position: relative;
+  width: 1301.01px;
+  height: 286px;
+  left: 35px;
+  top: 269px;
+}
+
+.solutions-text {
+  /* Get to know us */
+
+  position: relative;
+  width: 420px;
+  height: 50px;
+  left: 131px;
+  top: 0px;
+
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 50px;
+  /* identical to box height, or 125% */
+  text-align: center;
+  letter-spacing: 0.03em;
+
+  background: linear-gradient(271.02deg, #5345ff 7.47%, #ff3b1b 94.75%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.scale-text {
+  /* Scale your product content with the optimal solutions for e-commerce */
+
+  position: relative;
+  width: 674px;
+  height: 34px;
+  left: 0px;
+  top: -30px;
+
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 163%;
+  /* or 29px */
+  text-align: center;
+  letter-spacing: 0.035em;
+
+  color: #312c8d;
+}
+
+.discover-solutions {
+  /* Title */
+
+  position: relative;
+  width: 674px;
+  height: 84px;
+  left: 382px;
+  top: 101px;
+  gap: 10px;
+}
+
+.group-img {
+  /* Group 7 */
+
+  /* Rectangle 52 */
+
+  position: relative;
+  width: 353px;
+  height: 211px;
+  left: 100px;
+  top: 0px;
+
+  border-radius: 44px;
+}
+
+.group-7 {
+  /* 1 */
+
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 1239px;
+  height: 362px;
+  left: 0px;
+  top: 153px;
+  justify-content: space-evenly;
+}
+
+.group-9 {
+  /* Group 9 */
+
+  position: relative;
+  width: 1234px;
+  height: 211px;
+  left: 100px;
+  top: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.groupimg {
+  /* Group 3 */
+
+  position: relative;
+  width: 1223px;
+  height: 118px;
+  left: -10px;
+  top: 24px;
+}
+
+.group8-img {
+  /* Group 8 */
+
+  position: relative;
+  width: 1223px;
+  height: 118px;
+  left: -10px;
+  top: 44px;
+  margin-bottom: 50px;
+}
+
+.innovation-content {
+  /* Metaverse Content Production */
+
+  width: 195px;
+  height: 15px;
+
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 124.5%;
+  /* identical to box height, or 15px */
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.05em;
+  font-variant: small-caps;
+
+  color: #736dfa;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.innstore {
+  /* InStore Immersive Activation */
+
+  width: 326px;
+  height: 32px;
+
+  /* Heading/Desktop and Tablet/H4 */
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 32px;
+  /* identical to box height, or 133% */
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.035em;
+
+  color: #ffffff;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.btn-learnmore {
+  /* Btn */
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 20px;
+  gap: 10px;
+
+  width: 200px;
+  height: 34px;
+
+  background: #ff4729;
+  border-radius: 5px;
+  border: none;
+  color: white;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 3;
+  flex-grow: 0;
+}
+
+.video {
+  width: 500px;
+  height: 280px;
+}
+
+.polygon {
+  width: 50px;
+  height: 50px;
+  /* Polygon 1 */
+
+  position: relative;
+  width: 50px;
+  height: 50px;
+  right: 260px;
+  bottom: 110px;
+}
+
+.innovations {
+  /* Section  */
+
+  /* Auto layout */
+
+  justify-content: center;
+  align-items: center;
+
+  gap: 50px;
+
+  width: stretch;
+  height: 100%;
+
+  background: #151568;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.innovations-text {
+  color: white;
+}
+
+.modelcreation {
+  /* 3D Model Creation */
+
+  width: 116px;
+  height: 15px;
+
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 124.5%;
+  /* identical to box height, or 15px */
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.05em;
+  font-variant: small-caps;
+
+  color: #736dfa;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.productrenders {
+  /* High-quality Product Renders */
+
+  width: 337px;
+  height: 32px;
+
+  /* Heading/Desktop and Tablet/H4 */
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 32px;
+  /* identical to box height, or 133% */
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.035em;
+
+  color: #ffffff;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.tulfa-text-metaverse {
+  /* The future of digital experiences is here. Tulfa's 3D Lab provides you with an instant metaverse strategy by creating 3D models and other assets to help you sell your products faster. We create and deploy 3D ﻿models that work across platforms. */
+
+  width: 478px;
+  height: 92px;
+
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 23px;
+  /* or 144% */
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.035em;
+
+  color: #ffffff;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 2;
+  align-self: stretch;
+  flex-grow: 0;
+}
+
+.btn-assets {
+  /* Btn */
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 20px;
+  gap: 10px;
+
+  width: 200px;
+  height: 34px;
+
+  background: #ff4729;
+  border-radius: 5px;
+  color: white;
+  border: none;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 3;
+  flex-grow: 0;
+}
+
+.videotwo {
+  /* Rectangle 55 */
+
+  position: relative;
+  width: 500px;
+  height: 280px;
+  left: 0px;
+  top: 0px;
+
+  border-radius: 10px;
+}
+
+.polygontwo {
+  /* Polygon 1 */
+
+  position: relative;
+  width: 50px;
+  height: 50px;
+  left: calc(50% - 50px / 2 + 50px);
+  top: calc(50% - 50px / 2);
+
+  background: rgba(0, 0, 0, 0.25);
+  box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+  transform: rotate(90deg);
+}
+
+.first-video {
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+  margin-top: 40px;
+}
+
+.second-video {
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+}
+
+.innovations {
+  display: flex;
+  flex-direction: column;
+}
+
+.imgconfig {
+  /* image */
+
+  position: relative;
+  width: 500px;
+  height: 280px;
+  left: 0px;
+  top: 0px;
+
+  border-radius: 10px;
+}
+
+.third-innovation {
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+}
+
+.img-enhanced {
+  /* Rectangle 55 */
+
+  position: relative;
+  width: 500px;
+  height: 280px;
+  left: 0px;
+  top: 0px;
+  border-radius: 10px;
+}
+
+.btn-content {
+  /* Btn */
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 20px;
+  gap: 10px;
+
+  width: 328px;
+  height: 34px;
+
+  background: #ff4729;
+  border-radius: 5px;
+  border: none;
+  color: white;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 3;
+  flex-grow: 0;
+}
+
+.fourth-innovation {
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+}
+
+.fortune-text {
+  /* Trusted by top Fortune 500 clients from around the world */
+
+  width: 1067px;
+  height: 44px;
+
+  /* Heading/Desktop and Tablet/H2 */
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 110%;
+  /* identical to box height, or 44px */
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.03em;
+
+  color: #ffffff;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin-top: 100px;
+}
+
+.carousel-img {
+  /* image */
+
+  width: 100px;
+  height: 100px;
+
+  border-radius: 13.3333px;
+
+  /* Inside auto layout */
+
+  order: 0;
+  flex-grow: 0;
+}
+
+.btn-work-with {
+  /* Btn */
+  display: flex;
+  flex-direction: row;
+  justify-content: center; /* Center content inside the button */
+  align-items: center;
+  padding: 10px 20px;
+  gap: 10px;
+
+  width: 188px; /* Fixed width */
+  height: 34px; /* Fixed height */
+
+  background: #736df9;
+  border-radius: 5px;
+  border: none;
+  color: white;
+
+  /* Flexbox properties */
+  flex: none;
+  order: 2;
+  flex-grow: 0;
+  margin-top: 30px; /* Add space above the button */
+  margin-left: 450px;
+  margin-bottom: 100px;
+}
+
+.btns-transformation {
+  /* Btns */
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 10px;
+
+  width: 681px;
+  height: 34px;
+  margin-left: 120px;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  margin-right: 50px;
+}
+
+.modelling-button {
+  /* Btn */
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 20px;
+  gap: 10px;
+
+  width: 114px;
+  height: 34px;
+
+  background: #736df9;
+  border-radius: 20px;
+  border: none;
+  color: white;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.btn-model {
+  /* Btn */
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 20px;
+  gap: 10px;
+
+  width: 151px;
+  height: 34px;
+
+  background: #30288f;
+  border-radius: 20px;
+  border: none;
+  color: white;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.digital-all {
+  /* Digital Transformation for All */
+
+  width: 554px;
+  height: 44px;
+
+  /* Heading/Desktop and Tablet/H2 */
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 110%;
+  /* identical to box height, or 44px */
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.03em;
+
+  color: #ffffff;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin-bottom: -20px;
+}
+
+.digital-paragraph {
+  /* Find optimum and convenient ways to adapt to the trend-setting digital revolutions. */
+
+  width: 581px;
+  height: 23px;
+
+  /* Body */
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 23px;
+  /* identical to box height, or 144% */
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.035em;
+
+  color: #ffffff;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+
+  margin-bottom: 50px;
+}
+
+.babycrib {
+  /* Card */
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 10px;
+
+  width: 365px;
+  height: 408px;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.katespade {
+  /* Card */
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 10px;
+
+  width: 365px;
+  height: 408px;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.harley {
+  /* Card */
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 10px;
+
+  width: 365px;
+  height: 408px;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 2;
+  flex-grow: 0;
+}
+
+.nikearready {
+  /* Card */
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 10px;
+
+  width: 365px;
+  height: 408px;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 3;
+  flex-grow: 0;
+}
+
+.hardware {
+  /* Card */
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 10px;
+
+  width: 365px;
+  height: 408px;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 4;
+  flex-grow: 0;
+}
+
+.chicago {
+  /* Card */
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 10px;
+
+  width: 365px;
+  height: 408px;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 5;
+  flex-grow: 0;
+}
+
+.katespadetitle {
+  /* Baby Crib - 3D Modeling / Augmented Reality */
+
+  width: 365px;
+  height: 46px;
+
+  /* Subtitle/Desktop and Tablet/Subtitle Bold */
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 23px;
+  /* or 128% */
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.03em;
+
+  color: #ffffff;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 1;
+  align-self: stretch;
+  flex-grow: 0;
+}
+
+.katespadetext {
+  /* The potential of augmented reality is limitless. With augmented reality, give your shoppers the opportunity to feel and experience your products in their space. */
+
+  width: 365px;
+  height: 92px;
+
+  /* Body */
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 23px;
+  /* or 144% */
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.035em;
+
+  color: #ffffff;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 2;
+  align-self: stretch;
+  flex-grow: 0;
+}
+
+.harleytitle {
+  /* Baby Crib - 3D Modeling / Augmented Reality */
+
+  width: 365px;
+  height: 46px;
+
+  /* Subtitle/Desktop and Tablet/Subtitle Bold */
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 23px;
+  /* or 128% */
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.03em;
+
+  color: #ffffff;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 1;
+  align-self: stretch;
+  flex-grow: 0;
+}
+
+.harleytext {
+  /* The potential of augmented reality is limitless. With augmented reality, give your shoppers the opportunity to feel and experience your products in their space. */
+
+  width: 365px;
+  height: 46px;
+
+  /* Body */
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 23px;
+  /* or 144% */
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.035em;
+
+  color: #ffffff;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 2;
+  align-self: stretch;
+  flex-grow: 0;
+}
+
+.niketitle {
+  /* Baby Crib - 3D Modeling / Augmented Reality */
+
+  width: 365px;
+  height: 23px;
+
+  /* Subtitle/Desktop and Tablet/Subtitle Bold */
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 23px;
+  /* identical to box height, or 128% */
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.03em;
+
+  color: #ffffff;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 1;
+  align-self: stretch;
+  flex-grow: 0;
+}
+
+.niketext {
+  /* The potential of augmented reality is limitless. With augmented reality, give your shoppers the opportunity to feel and experience your products in their space. */
+
+  width: 365px;
+  height: 69px;
+
+  /* Body */
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 23px;
+  /* or 144% */
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.035em;
+
+  color: #ffffff;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 2;
+  align-self: stretch;
+  flex-grow: 0;
+}
+
+.chicagotitle {
+  /* Baby Crib - 3D Modeling / Augmented Reality */
+
+  width: 365px;
+  height: 46px;
+
+  /* Subtitle/Desktop and Tablet/Subtitle Bold */
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 23px;
+  /* or 128% */
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.03em;
+
+  color: #ffffff;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 1;
+  align-self: stretch;
+  flex-grow: 0;
+}
+
+.chicagotext {
+  /* The potential of augmented reality is limitless. With augmented reality, give your shoppers the opportunity to feel and experience your products in their space. */
+
+  width: 365px;
+  height: 92px;
+
+  /* Body */
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 23px;
+  /* or 144% */
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.035em;
+
+  color: #ffffff;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 2;
+  align-self: stretch;
+  flex-grow: 0;
+}
+
+.hardwaretitle {
+  /* Baby Crib - 3D Modeling / Augmented Reality */
+
+  width: 365px;
+  height: 46px;
+
+  /* Subtitle/Desktop and Tablet/Subtitle Bold */
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 23px;
+  /* or 128% */
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.03em;
+
+  color: #ffffff;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 1;
+  align-self: stretch;
+  flex-grow: 0;
+}
+
+.hardwaretext {
+  /* The potential of augmented reality is limitless. With augmented reality, give your shoppers the opportunity to feel and experience your products in their space. */
+
+  width: 365px;
+  height: 92px;
+
+  /* Body */
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 23px;
+  /* or 144% */
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.035em;
+
+  color: #ffffff;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 2;
+  align-self: stretch;
+  flex-grow: 0;
+}
+
+.cards {
+  /* Frame 11 */
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  align-content: flex-start;
+  padding: 0px;
+  gap: 20px;
+
+  width: 1135px;
+  height: 1000px;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  margin-top: 30px;
+}
+
+.babycribtitle {
+  /* Baby Crib - 3D Modeling / Augmented Reality */
+
+  width: 365px;
+  height: 46px;
+
+  /* Subtitle/Desktop and Tablet/Subtitle Bold */
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 23px;
+  /* or 128% */
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.03em;
+
+  color: #ffffff;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 1;
+  align-self: stretch;
+  flex-grow: 0;
+}
+
+.babycribtext {
+  /* The potential of augmented reality is limitless. With augmented reality, give your shoppers the opportunity to feel and experience your products in their space. */
+
+  width: 365px;
+  height: 92px;
+
+  /* Body */
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 23px;
+  /* or 144% */
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.035em;
+
+  color: #ffffff;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 2;
+  align-self: stretch;
+  flex-grow: 0;
+}
+
+.cards img {
+  margin-top: 20px;
+  height: fill;
+  width: 320px;
+  display: flex;
+  flex-direction: row;
+}
+
+.loadmore {
+  /* Btn */
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 20px;
+  gap: 10px;
+
+  position: relative;
+  width: 150px;
+  min-width: 150px;
+  height: 34px;
+  left: calc(50% - 150px / 2 - 50px);
+  top: 80px;
+
+  background: #736df9;
+  border-radius: 5px;
+  border: none;
+  color: white;
+  margin-top: -30px;
+}
+
+.case-text {
+  /* Case Studies */
+
+  width: 247px;
+  height: 44px;
+
+  /* Heading/Desktop and Tablet/H2 */
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 110%;
+  /* identical to box height, or 44px */
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.03em;
+
+  color: #ffffff;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  border: 1px solid red;
+}
+
+.card1 {
+  /* Case Studies */
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 50px 10px;
+  gap: 20px;
+
+  width: 365px;
+  height: auto;
+
+  background: #0a0a37;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 7;
+  align-self: stretch;
+  flex-grow: 0;
+  z-index: 7;
+}
+
+.card2 {
+  /* Card */
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  gap: 10px;
+
+  width: 365px;
+  height: auto;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.card3 {
+  /* Card */
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  gap: 10px;
+
+  width: 365px;
+  height: auto;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 2;
+  flex-grow: 0;
+}
+
+.container-cards {
+  /* Case Studies */
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 50px 10px;
+  gap: 20px;
+
+  width: stretch;
+  height: 100%;
+
+  background: #0a0a37;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 7;
+  align-self: stretch;
+  flex-grow: 0;
+  z-index: 7;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+  margin-top: -115px;
+}
+
+.text1 {
+  /* DIESEL - AR Ready 3D Model by Tulfa Inc. */
+
+  width: 351px;
+  height: 46px;
+
+  /* Subtitle/Desktop and Tablet/Subtitle Bold */
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 23px;
+  /* or 128% */
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.03em;
+
+  color: #ffffff;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.text2 {
+  /* DIESEL - AR Ready 3D Model by Tulfa Inc. */
+
+  width: 351px;
+  height: 46px;
+
+  /* Subtitle/Desktop and Tablet/Subtitle Bold */
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 23px;
+  /* or 128% */
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.03em;
+
+  color: #ffffff;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.text3 {
+  /* DIESEL - AR Ready 3D Model by Tulfa Inc. */
+
+  width: 351px;
+  height: 46px;
+
+  /* Subtitle/Desktop and Tablet/Subtitle Bold */
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 23px;
+  /* or 128% */
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.03em;
+
+  color: #ffffff;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.h-studies {
+  /* Case Studies */
+
+  width: 247px;
+  height: 44px;
+  text-align: center;
+
+  /* Heading/Desktop and Tablet/H2 */
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 110%;
+  /* identical to box height, or 44px */
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.03em;
+
+  color: #ffffff;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin-left: 650px;
+}
+
+.container-cards img {
+  margin-top: 30px;
+ 
+}
+
+.info-cards {
+  margin-left: 100px;
+}
+
+.digital-all,
+.digital-paragraph {
+  margin-left: 200px;
+}

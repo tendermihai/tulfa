@@ -1,0 +1,75 @@
+/* Header.css */
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color: black;
+}
+
+.logo img {
+  display: block; /* Ensure the image is visible */
+  height: 41.48px;
+  width: 154.43px;
+  margin-bottom: 250px;
+}
+
+/* Standard styles for navigation links */
+.nav {
+  display: flex;
+  gap: 20px;
+}
+
+.nav a {
+  text-decoration: none;
+  color: #333;
+  padding: 8px;
+}
+
+/* Hide the links initially on mobile and style the hamburger */
+.hamburger {
+  display: none;
+  cursor: pointer;
+  flex-direction: column;
+  gap: 5px;
+  margin-bottom: 325px;
+}
+
+.hamburger .bar {
+  width: 25px;
+  height: 3px;
+  background-color: white;
+  transition: 0.3s ease;
+}
+
+/* Mobile-specific styles */
+
+/* Hide nav links by default on mobile */
+.nav {
+  display: none;
+  position: absolute;
+  top: 60px;
+  right: 0;
+  flex-direction: column;
+  background-color: #ffffff;
+  width: 100%;
+  padding: 10px 0;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Show nav links when menu is open */
+.nav.open {
+  display: flex;
+}
+
+/* Show the hamburger icon on mobile */
+.hamburger {
+  display: flex;
+}
+
+.text {
+  color: white;
+  right: 1000px;
+  opacity: 0.8;
+}
